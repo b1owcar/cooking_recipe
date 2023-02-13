@@ -1,4 +1,7 @@
 # cooking_receipe
+
+![Auther](https://img.shields.io/badge/Author-Bad%20Guys%20Group-blue)
+
 Inspired by @Anduin2017 and a great experience spending dinners with Cyber Security Bad Guys, we are happy to create this project to share our receipes.
 
 The dishes included in the project are already appeared in our dinner table.
@@ -9,10 +12,10 @@ The dishes included in the project are already appeared in our dinner table.
 2. Cooking needs great attention, do not leave your food cooking without any reminders.
 
 ## Catalog
-- .[Braised Pork Belly](dishes/Braised Pork Belly.md)
-- .[Diced steak with black pepper sauce](dishes/Diced steak with black pepper sauce.md)
-- .[Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling Fresh Squid and Beef with black pepper sauce.md)
-- .[Yorkshire Milk Pudding](dishes/Yorkshire Milk Pudding.md)
+- [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
+- [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
+- [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
+- [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
 
 ## Techniques
 
@@ -21,3 +24,7 @@ How to create fire on an electromagnetic oven, please contact the author for mor
 <div>
 	<img src="imgs/index/fire.jpg" style="width: 300px"/>
 </div>
+
+## For developers
+1. Please put your dishes into the folder "dishes" as a `.md` file.
+2. Note that there must __no space__ in the name of the file.
