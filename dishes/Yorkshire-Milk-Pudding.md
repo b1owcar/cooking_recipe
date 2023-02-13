@@ -2,7 +2,7 @@
 
 ![Auther](https://img.shields.io/badge/Author-Aiden-orange)
 
-## Ingredients 备菜
+## Ingredients 配料
 
 - Yorkshire pudding (Iceland)
 - 全蛋3个 (Sainsbury's large eggs)

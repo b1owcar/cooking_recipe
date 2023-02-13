@@ -3,7 +3,7 @@
 ![Auther](https://img.shields.io/badge/Author-Aiden-orange)
 ![Suitable](https://img.shields.io/badge/Suitable%20For-2%20People-brightgreen)
 
-## Ingredients 备菜
+## Ingredients 配料
 
 - 去骨鸡腿肉640g (Sainsbury's British fresh chicken thigh fillets & boneless)
 
