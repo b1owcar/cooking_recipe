@@ -1,4 +1,9 @@
 # cooking_receipe
-Inspired by @Anduin2017 and other fellows, this is the space where I upload my receipes for cooking dishes.
+Inspired by @Anduin2017 and a great experience spending dinners with Cyber Security Bad Guys, we are happy to create this project to share our receipes.
 
-These receipes came from my experience of cooking and for each dish I have more than 3 attempts to make it.
+The dishes included in the project are already appeared in our dinner table.
+
+## Notes
+
+1. The cooking environment is based on Lancaster University Graduate College Superior Ensuite kitchen. You might need to adjust slightly some steps if you are in a different environment (mostly heat).
+2. Cooking needs great attention, do not leave your food cooking without any reminders.
