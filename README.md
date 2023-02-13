@@ -8,10 +8,16 @@ The dishes included in the project are already appeared in our dinner table.
 1. The cooking environment is based on Lancaster University Graduate College Superior Ensuite kitchen. You might need to adjust slightly some steps if you are in a different environment (mostly heat).
 2. Cooking needs great attention, do not leave your food cooking without any reminders.
 
+## Catalog
+- .[Braised Pork Belly](dishes/Braised Pork Belly.md)
+- .[Diced steak with black pepper sauce](dishes/Diced steak with black pepper sauce.md)
+- .[Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling Fresh Squid and Beef with black pepper sauce.md)
+- .[Yorkshire Milk Pudding](dishes/Yorkshire Milk Pudding.md)
+
 ## Techniques
 
 How to create fire on an electromagnetic oven, please contact the author for more information, teach you hand by hand!!!
 
 <div>
-	<img src="imgs/fire.jpg" style="width: 300px"/>
+	<img src="imgs/index/fire.jpg" style="width: 300px"/>
 </div>
