@@ -10,7 +10,7 @@ The dishes included in the project are already appeared in our dinner table.
 
 ## Techniques
 
-How to creat fire on an electromagnetic oven
+How to create fire on an electromagnetic oven
 
 <div>
 	<img src="imgs/fire.jpg" style="width: 300px"/>
