@@ -17,7 +17,7 @@
 
     洗净并将生菜切块（也可以用手掰）
 
-2.  Crush and slice the garlic
+2.  Use the knife to crush and slice the garlic
 
     用刀背压一下蒜片，切碎
 
