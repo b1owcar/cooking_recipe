@@ -65,23 +65,27 @@ Oil(Plant based) 植物油
 
 ## Notes
 
-1. You might not wish to add too much oil as the meat includes oil
+1. You might need to take out the fur on the meat skin
+
+   在处理肉的时候最好去除皮上的猪毛
+
+2. You might not wish to add too much oil as the meat includes oil
    
    炒糖色时不宜添加过多的油，这是因为肉里也会出油，会导致出锅时肉过于油腻
    
-2. If boiled water is not added before putting meat into the pot, you might have a risk of scald by the high temperature suger/oil.
+3. If boiled water is not added before putting meat into the pot, you might have a risk of scald by the high temperature suger/oil.
 
    在放入肉之前可以添加一些沸水作为缓冲，否则可能会被糖和油的混合物溅到导致烫伤
 
-3. If you add too much sugar the taste may be bitter than usual
+4. If you add too much sugar the taste may be bitter than usual
 
    加入过多的糖会使肉偏苦
    
    
-4. If you add too much flavor the taste may be covered by them
+5. If you add too much flavor the taste may be covered by them
 
    加入过多的香料会压掉肉原有的味道
 
-5. You can cook the meat longer than 45 minutes if you want more tasty meat
+6. You can cook the meat longer than 45 minutes if you want more tasty meat
 
    如果希望肉能更加入味，可以增加炖肉的时间
