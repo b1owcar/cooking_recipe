@@ -5,11 +5,11 @@
 
 ## Ingredients 配料
 
-- 生菜 (Whole Lettuce)
-- 海鲜酱油 (Seafood Soy Sauce)
-- 蚝油汁 (Oyster Sauce)
-- 蒜 (Garlic)
-- 食用油 (Plant based Oil)
+- Whole Lettuce 生菜
+- Seafood Soy Sauce 海鲜酱油
+- Oyster Sauce 蚝油汁
+- Garlic(1-2 pieces) 蒜（1-2瓣）
+- Oil(Plant based) 植物油
 
 ## Steps 步骤
 
