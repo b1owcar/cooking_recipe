@@ -13,6 +13,7 @@ The dishes included in the project are already appeared in our dinner table.
 
 ## Catalog
 - [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
+- [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
 - [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
 - [Lettuce](dishes/Lettuce.md)
