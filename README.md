@@ -14,7 +14,7 @@ The dishes included in the project are already appeared in our dinner table.
 ## Catalog
 - [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
-- [Gong Bao Ji Ding](dishes/Gong-Bao-Ji-Ding.md)
+- [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
 - [Lettuce](dishes/Lettuce.md)
 - [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
