@@ -1,4 +1,4 @@
-# Gong Bao Ji Ding 宫保鸡丁
+# Kong Pao Chicken 宫保鸡丁
 
 ![Auther](https://img.shields.io/badge/Author-Aiden-orange)
 ![Suitable](https://img.shields.io/badge/Suitable%20For-2%20People-brightgreen)
