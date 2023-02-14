@@ -30,4 +30,4 @@ How to create fire on an electromagnetic oven, please contact the [author](mailt
 
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
-2. Note that there must be __no space__ in the file name.
+2. Please note that there must be __no space__ in the file name.
