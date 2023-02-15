@@ -29,6 +29,12 @@ How to create fire on an electromagnetic oven, please contact the [author](mailt
 	<img src="imgs/index/fire.jpg" style="width: 300px"/>
 </div>
 
+## The most handsome guy in Lancaster
+
+<div>
+	<img src="imgs/index/WechatIMG535.jpeg" style="width: 300px"/>
+</div>
+
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
 2. Please note that there must be __no space__ in the file name.
