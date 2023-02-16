@@ -52,7 +52,7 @@
 ## Sample 样菜
 
 <div>
-  <img src="imgs/index/kong_pao_chicken_20230203.JPG" style="width:500px"/>
+    <img src="imgs/index/kong_pao_chicken_20230203.JPG">
 </div>  
 
 ## Notes 注意事项
