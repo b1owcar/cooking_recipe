@@ -1,6 +1,6 @@
-# cooking_receipe
+# Cookbook
 
-![Auther](https://img.shields.io/badge/Author-Bad%20Guys%20Group-blue)
+![Author](https://img.shields.io/badge/Author-Bad%20Guys%20Group-blue)
 
 Inspired by @Anduin2017 and a great experience spending dinners with Cyber Security Bad Guys, we are happy to create this project to share our receipes.
 
@@ -29,8 +29,15 @@ How to create fire on an electromagnetic oven, please contact the [author](mailt
 	<img src="imgs/index/fire.jpg" style="width: 300px"/>
 </div>
 
-## The most handsome guy in Lancaster is not exist
+The fire is created by oil, which will burn after it reaches its burning point, please do not try this if you cannot guarantee you are playing safe.
 
+## Talent show
+
+<div>
+    <img src="imgs/index/kong_pao_chicken_20230203.JPG">
+</div>  
+
+Kong Pao Chicken by [Aiden](https://github.com/Aiden-L)
 
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
