@@ -49,7 +49,7 @@
 5. 加入料汁翻炒均匀，加入大葱段，炒好的花生
 6. 明火爆炒，大火收汁完成
 <div>
-    <img src="../imgs/index/kong_pao_chicken_20230203.JPG" width:"500px">
+    <img src="../imgs/index/kong_pao_chicken_20230203.JPG" style="width:500px">
 </div> 
 
 ## Notes 注意事项
