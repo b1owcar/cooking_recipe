@@ -15,7 +15,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
 - [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
-- [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
+- [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md) by [Aiden](https://github.com/Aiden-L)
 - [Lettuce](dishes/Lettuce.md)
 - [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
@@ -30,14 +30,6 @@ How to create fire on an electromagnetic oven, please contact the [author](mailt
 </div>
 
 The fire is created by oil, which will burn after it reaches its burning point, please do not try this if you cannot guarantee you are playing safe.
-
-## Talent show
-
-<div>
-    <img src="imgs/index/kong_pao_chicken_20230203.JPG">
-</div>  
-
-Kong Pao Chicken by [Aiden](https://github.com/Aiden-L)
 
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
