@@ -23,7 +23,7 @@ The dishes included in the project are already appeared in our dinner table.
 
 ## Techniques
 
-How to create fire on an electromagnetic oven, please contact the [author](mailto:h.lu7@lancaster.ac.uk) for more information, he will teach you hand by hand!!!
+How to create fire on an electromagnetic oven, please contact the [author](mailto:ask@lancaster.ac.uk) for more information, he will teach you hand by hand!!!
 
 <div>
 	<img src="imgs/index/fire.jpg" style="width: 300px"/>
