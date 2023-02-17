@@ -1,5 +1,8 @@
 # Fried Purple Cabbage 炒紫甘蓝
 
+![Author](https://img.shields.io/badge/Author-wwdpm__b1owcar-blueviolet)
+![Suitable](https://img.shields.io/badge/Suitable%20For-4--6%20People-brightgreen)
+
 ## Ingredients 配料
 
 Purple Cabbage(Red Cabbage) 紫甘蓝

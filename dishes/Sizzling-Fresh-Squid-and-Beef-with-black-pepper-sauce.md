@@ -1,5 +1,8 @@
 # Sizzling Fresh Squid with Beef and black pepper sauce
 
+![Author](https://img.shields.io/badge/Author-wwdpm__b1owcar-blueviolet)
+![Suitable](https://img.shields.io/badge/Suitable%20For-4--6%20People-brightgreen)
+
 ## Ingredients
 
 Beef steaks(any, e.g. sirloin, rump, rib eye)
