@@ -1,6 +1,6 @@
 # Roasted Chicken Wings 蜜汁烤翅
 
-![Auther](https://img.shields.io/badge/Author-Aiden-orange)
+![Author](https://img.shields.io/badge/Author-Aiden-orange)
 
 ## Ingredients 配料
 

@@ -33,6 +33,14 @@ How to create fire on an electromagnetic oven, please find chances to visit our 
 
 The fire is created by oil, which will burn after it reaches its burning point, please do not try this if you cannot guarantee you are playing safe.
 
+## Daily Bloopers
+
+<div>
+	<img src="imgs/index/spelling_error.png"/>
+</div>	
+
+Mispelling of Author
+
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
 2. Please note that there must be __no space__ in the file name.
