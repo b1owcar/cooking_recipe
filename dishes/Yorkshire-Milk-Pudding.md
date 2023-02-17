@@ -1,6 +1,6 @@
 # Yorkshire Milk Pudding 约克夏奶布丁
 
-![Auther](https://img.shields.io/badge/Author-Aiden-orange)
+![Author](https://img.shields.io/badge/Author-Aiden-orange)
 
 ## Ingredients 配料
 
