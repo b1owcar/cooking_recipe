@@ -1,6 +1,6 @@
 # Kong Pao Chicken 宫保鸡丁
 
-![Auther](https://img.shields.io/badge/Author-Aiden-orange)
+![Author](https://img.shields.io/badge/Author-Aiden-orange)
 ![Suitable](https://img.shields.io/badge/Suitable%20For-2%20People-brightgreen)
 
 ## Ingredients 配料
