@@ -8,7 +8,7 @@ The dishes included in the project are already appeared in our dinner table.
 
 ## Notes
 
-1. The cooking environment is based on Lancaster University Graduate College Superior Ensuite kitchen. You might need to adjust slightly some steps if you are in a different environment (mostly heat).
+1. The cooking environment is based on Lancaster University Graduate College Superior Ensuite kitchen. You might need to adjust slightly some steps if you are in a different environment (mostly heat and cooking time).
 2. Cooking needs great attention, do not leave your food cooking without any reminders.
 3. As the chefs are not very familiar with the allergies or the vegetarian/vegan sorting, you can always check the ingredients to see if the dish is suitable for you. 
 
