@@ -13,15 +13,15 @@ The dishes included in the project are already appeared in our dinner table.
 3. As the chefs are not very familiar with the allergies or the vegetarian/vegan sorting, you can always check the ingredients to see if the dish is suitable for you. 
 
 ## Catalog
-- [Boiled Lettuce](dishes/Boiled_Lettuce.md) by [wwdpm_b1owcar](https://github.com/b1owcar)
-- [Braised Pork Belly](dishes/Braised-Pork-Belly.md) by [wwdpm_b1owcar](https://github.com/b1owcar)
-- [Curry with beef brisket](dishes/Curry_with_beef_brisket.md) by [wwdpm_b1owcar](https://github.com/b1owcar)
-- [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md) by [wwdpm_b1owcar](https://github.com/b1owcar)
-- [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md) by [wwdpm_b1owcar](https://github.com/b1owcar)
-- [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md) by [Aiden](https://github.com/Aiden-L)
-- [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md) by [Aiden](https://github.com/Aiden-L)
-- [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md) by [wwdpm_b1owcar](https://github.com/b1owcar)
-- [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md) by [Aiden](https://github.com/Aiden-L)
+- [Boiled Lettuce](dishes/Boiled_Lettuce.md)
+- [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
+- [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
+- [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
+- [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md)
+- [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
+- [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md)
+- [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
+- [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
 
 ## Techniques
 
