@@ -10,7 +10,8 @@ The dishes included in the project are already appeared in our dinner table.
 
 1. The cooking environment is based on Lancaster University Graduate College Superior Ensuite kitchen. You might need to adjust slightly some steps if you are in a different environment (mostly heat and cooking time).
 2. Cooking needs great attention, do not leave your food cooking without any reminders.
-3. As the chefs are not very familiar with the allergies or the vegetarian/vegan sorting, you can always check the ingredients to see if the dish is suitable for you. 
+3. Some dishes like soup may take more than 2 hours to cook, please be patient and set up reminders to avoid any kitchen accidents.
+4. As the chefs are not very familiar with the allergies or the vegetarian/vegan sorting, you can always check the ingredients to see if the dish is suitable for you. 
 
 ## Catalog
 - [Boiled Lettuce](dishes/Boiled_Lettuce.md)
@@ -19,6 +20,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
 - [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md)
 - [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
+- [Radish Beef Brisket Soup](dishes/Radish_Beef_Brisket_Soup.md)
 - [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
