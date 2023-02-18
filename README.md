@@ -22,6 +22,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
 - [Radish Beef Brisket Soup](dishes/Radish_Beef_Brisket_Soup.md)
 - [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md)
+- [Seafood Noodles(Souped)](dishes/Seafood_Noodles_Souped.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
 
