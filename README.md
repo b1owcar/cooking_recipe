@@ -14,6 +14,7 @@ The dishes included in the project are already appeared in our dinner table.
 4. As the chefs are not very familiar with the allergies or the vegetarian/vegan sorting, you can always check the ingredients to see if the dish is suitable for you. 
 
 ## Catalog
+
 - [Boiled Lettuce](dishes/Boiled_Lettuce.md)
 - [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
 - [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
@@ -25,6 +26,10 @@ The dishes included in the project are already appeared in our dinner table.
 - [Seafood Noodles(Souped)](dishes/Seafood_Noodles_Souped.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
+
+#### Fried Vegetables
+- [醋溜白菜](dishes/Vegs/Cu_Liu_Bai_Cai.md)
+- [姜汁菠菜](dishes/Vegs/Jiang_Zhi_Bo_Cai.md)
 
 ## Techniques
 
