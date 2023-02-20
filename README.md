@@ -38,7 +38,8 @@ The dishes included in the project are already appeared in our dinner table.
 - [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md)
 
 #### Dessert
-- [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
+- [Red Bean Paste](dishes/Desserts/Red_Bean_Paste.md)
+- [Yorkshire Milk Pudding](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
 #### Drinks
 - [Bubble Milk Tea](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
