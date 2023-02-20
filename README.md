@@ -13,23 +13,32 @@ The dishes included in the project are already appeared in our dinner table.
 3. Some dishes like soup may take more than 2 hours to cook, please be patient and set up reminders to avoid any kitchen accidents.
 4. As the chefs are not very familiar with the allergies or the vegetarian/vegan sorting, you can always check the ingredients to see if the dish is suitable for you. 
 
-## Catalog
+## Menu
 
-- [Boiled Lettuce](dishes/Boiled_Lettuce.md)
+#### Main
+- [Seafood Noodles(Souped)](dishes/Seafood_Noodles_Souped.md)
+
+#### Meat
 - [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
 - [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
-- [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md)
 - [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
-- [Radish Beef Brisket Soup](dishes/Radish_Beef_Brisket_Soup.md)
-- [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md)
-- [Seafood Noodles(Souped)](dishes/Seafood_Noodles_Souped.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
-- [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
 
-#### Fried Vegetables
+#### Vegetables
+- [Boiled Lettuce](dishes/Boiled_Lettuce.md)
+- [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md)
 - [醋溜白菜](dishes/Vegs/Cu_Liu_Bai_Cai.md)
 - [姜汁菠菜](dishes/Vegs/Jiang_Zhi_Bo_Cai.md)
+
+#### Soup
+- [Radish Beef Brisket Soup](dishes/Radish_Beef_Brisket_Soup.md)
+
+#### Sides
+- [Roasted Chicken Wings](dishes/Roasted-Chicken-Wings.md)
+
+#### Dessert
+- [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
 
 ## Techniques
 
