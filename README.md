@@ -56,8 +56,9 @@ The fire is created by oil, which will burn after it reaches its burning point, 
 	<img src="imgs/index/spelling_error.png"/>
 </div>	
 
-Mispelling of Author
+How to spell author
 
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
 2. Please note that there must be __no space__ in the file name.
+3. There is a [template file](dishes/template_dish.md) that you can use to edit your dishes.
