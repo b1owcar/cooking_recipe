@@ -40,6 +40,9 @@ The dishes included in the project are already appeared in our dinner table.
 #### Dessert
 - [Yorkshire Milk Pudding](dishes/Yorkshire-Milk-Pudding.md)
 
+#### Drinks
+- [Bubble Milk Tea](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
+
 ## Techniques
 
 How to create fire on an electromagnetic oven, please find chances to visit our [kitchen](https://use.mazemap.com/#v=1&config=lancaster&zlevel=1&center=-2.786763,54.004061&zoom=18.5&campusid=341&sharepoitype=point&sharepoi=-2.78638%2C54.00420) to witness the talent show live, the chefs will teach you hand by hand!!!
