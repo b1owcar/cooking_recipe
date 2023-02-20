@@ -24,13 +24,13 @@ The dishes included in the project are already appeared in our dinner table.
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
 - [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
-- [九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
+- [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 
 #### Vegetables
 - [Boiled Lettuce](dishes/Boiled_Lettuce.md)
 - [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md)
-- [醋溜白菜](dishes/Vegs/Cu_Liu_Bai_Cai.md)
-- [姜汁菠菜](dishes/Vegs/Jiang_Zhi_Bo_Cai.md)
+- [Chinese Cabbage with Vinegar 醋溜白菜](dishes/Vegs/Cu_Liu_Bai_Cai.md)
+- [Spinach with Ginger 姜汁菠菜](dishes/Vegs/Jiang_Zhi_Bo_Cai.md)
 
 #### Soup
 - [Radish Beef Brisket Soup](dishes/Radish_Beef_Brisket_Soup.md)
