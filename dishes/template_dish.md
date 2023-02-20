@@ -6,7 +6,9 @@
 Please use the site to generate your name and suitable for * number of people via [here](https://img.shields.io), see examples above
 
 blueviolet is occupied by wwdpm_b1owcar
+
 orange is occupied by Aiden
+
 brightgreen is reserved for generating the people count
 
 ## Ingredients
