@@ -24,6 +24,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
 - [Kong Pao Chicken](dishes/Gong-Bao-Ji-Ding.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
+- [九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 
 #### Vegetables
 - [Boiled Lettuce](dishes/Boiled_Lettuce.md)
