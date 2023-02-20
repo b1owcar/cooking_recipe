@@ -52,7 +52,13 @@ How to create fire on an electromagnetic oven, please find chances to visit our 
 	<img src="imgs/index/fire.jpg" style="width: 300px"/>
 </div>
 
-The fire is created by oil, which will burn after it reaches its burning point, please do not try this if you cannot guarantee you are playing safe.
+The fire is created by oil, which will burn after it reaches its burning point.
+
+However, there is a sequel debutted on Feburary 19, 2023 by the same chef, this time the fire was not at the bottom of the pot but inside the pot. 
+
+
+
+Warning: The footages showed above are not CGI! Please do not try it unsafely. We do not take any responsibilities if you set your kitchen on fire.
 
 ## Daily Bloopers
 
