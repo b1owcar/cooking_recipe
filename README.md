@@ -57,7 +57,9 @@ The fire is created by oil, which will burn after it reaches its burning point.
 
 However, there is a sequel debutted on Feburary 19, 2023 by the same chef, this time the fire was not at the bottom of the pot but inside the pot. 
 
-
+<div>
+	<img src="imgs/dishes/fire.gif" style="width: 300px"/>
+</div>
 
 Warning: The footages showed above are not CGI! Please do not try it unsafely. We do not take any responsibilities if you set your kitchen on fire.
 
