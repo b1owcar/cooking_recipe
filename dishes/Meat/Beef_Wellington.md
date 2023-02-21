@@ -41,7 +41,15 @@
     </div>
 
 7. 表面刷蛋液烤箱200度烤20分钟
+    
+	<div>
+        <img src="../../imgs/dishes/BeefWellington3.jpg" style="width:300px">
+    </div>
+	
+	<div>
+	    <img src="../../imgs/dishes/BeefWellington4.jpg" style="width:300px">
+	</div>
 
 ## Notes 注意事项
 
-不好吃就是自己做的不行，肯定不是菜谱的问题
+这道菜不要在伤心的时候做，切碎那些食材真的很烦，而且洋葱还贼辣眼睛
