@@ -23,7 +23,6 @@ The dishes included in the project are already appeared in our dinner table.
 - [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
 - [Kong Pao Chicken 宫保鸡丁](dishes/Meat/Gong-Bao-Ji-Ding.md)
-- [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 - [Simplified Beef Wellington 简化版惠林顿牛排](dishes/Meat/Beef_Wellington.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Whiskey Steak 威士忌牛排](dishes/Meat/Whiskey_Steak.md)
@@ -36,20 +35,25 @@ The dishes included in the project are already appeared in our dinner table.
 
 #### Soup
 - [Radish Beef Brisket Soup](dishes/Radish_Beef_Brisket_Soup.md)
-- [Wax Gourd Pork Ribs Soup](https://aiden-l.github.io/pages/notready/doge.html)
 
 #### Sides
 - [Roasted Chicken Wings 奥尔良鸡翅](dishes/Roasted-Chicken-Wings.md)
 
 #### Dessert
-- [Egg Tarts](https://aiden-l.github.io/pages/notready/doge.html)
+
 - [Red Bean Paste](dishes/Desserts/Red_Bean_Paste.md)
 - [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
 #### Drinks
 - [Bubble Milk Tea](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
 - [Caramel Milk Tea 焦糖奶茶](https://aiden-l.github.io/pages/notready/doge.html)
+
+#### Coming Soon
+- [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
+- [Fried Pork in the Scoop 锅包肉](https://aiden-l.github.io/pages/notready/doge.html)
 - [Mango Pomelo Sago 杨枝甘露](https://aiden-l.github.io/pages/notready/doge.html)
+- [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
+- [Wax Gourd Pork Ribs Soup 冬瓜排骨汤](https://aiden-l.github.io/pages/notready/doge.html)
 
 ## Techniques
 
@@ -76,6 +80,14 @@ Warning: The footages showed above are not CGI! Please do not try it unsafely. W
 </div>	
 
 How to spell author
+
+## Wish List Collection
+
+Please provide us the dish you want to see in our cookbook by filling this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__dBli81UNVIzNE9HSElUMzRNNUhBQkFFOFFMUFJHNS4u)
+
+We are open-hearted to research a new dish, but however, the dish must be possible to make.
+
+We will email you if your wish list is on our menu.
 
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
