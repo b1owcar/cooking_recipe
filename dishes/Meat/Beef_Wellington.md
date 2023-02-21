@@ -49,6 +49,10 @@
 	<div>
 	    <img src="../../imgs/dishes/BeefWellington4.jpg" style="width:300px">
 	</div>
+	
+	<div>
+	    <img src="../../imgs/dishes/BeefWellington5.jpg" style="width:300px">
+	</div>
 
 ## Notes 注意事项
 
