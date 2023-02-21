@@ -34,12 +34,14 @@ The dishes included in the project are already appeared in our dinner table.
 
 #### Soup
 - [Radish Beef Brisket Soup](dishes/Radish_Beef_Brisket_Soup.md)
+- [Wax Gourd Pork Ribs Soup](https://aiden-l.github.io/pages/notready/doge.html)
 
 #### Sides
 - [Roasted Chicken Wings 奥尔良鸡翅](dishes/Roasted-Chicken-Wings.md)
 
 #### Dessert
 - [Red Bean Paste](dishes/Desserts/Red_Bean_Paste.md)
+- [Egg Tarts](https://aiden-l.github.io/pages/notready/doge.html)
 - [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
 #### Drinks
