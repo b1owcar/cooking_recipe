@@ -22,9 +22,10 @@ The dishes included in the project are already appeared in our dinner table.
 - [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
 - [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
-- [Kong Pao Chicken 宫保鸡丁](dishes/Gong-Bao-Ji-Ding.md)
+- [Kong Pao Chicken 宫保鸡丁](dishes/Meat/Gong-Bao-Ji-Ding.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
+- [Simplified Beef Wellington 简化版惠林顿牛排](dishes/Meat/Beef_Wellington.md)
 
 #### Vegetables
 - [Boiled Lettuce](dishes/Boiled_Lettuce.md)
