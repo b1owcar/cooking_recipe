@@ -39,20 +39,24 @@
     <div>
         <img src="../../imgs/dishes/BeefWellington2.jpg" style="width:300px">
     </div>
-
-7. 表面刷蛋液烤箱200度烤20分钟
-    
-	<div>
-        <img src="../../imgs/dishes/BeefWellington3.jpg" style="width:300px">
-    </div>
 	
+	<div>
+	    <img src="../../imgs/dishes/BeefWellington3.jpg" style="width:300px">
+	</div>
+
+7. 表面刷蛋液烤箱200度带风扇烤20分钟
+    
 	<div>
 	    <img src="../../imgs/dishes/BeefWellington4.jpg" style="width:300px">
 	</div>
+
+## 成品展示
 	
 	<div>
 	    <img src="../../imgs/dishes/BeefWellington5.jpg" style="width:300px">
 	</div>
+	
+	另一道菜是吴大厨的，在线催更！！！
 
 ## Notes 注意事项
 
