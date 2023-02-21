@@ -11,7 +11,8 @@ The dishes included in the project are already appeared in our dinner table.
 1. The cooking environment is based on Lancaster University Graduate College Superior Ensuite kitchen. You might need to adjust slightly some steps if you are in a different environment (mostly heat and cooking time).
 2. Cooking needs great attention, do not leave your food cooking without any reminders.
 3. Some dishes like soup may take more than 2 hours to cook, please be patient and set up reminders to avoid any kitchen accidents.
-4. As the chefs are not very familiar with the allergies or the vegetarian/vegan sorting, you can always check the ingredients to see if the dish is suitable for you. 
+4. As the chefs are not very familiar with the allergies or the vegetarian/vegan sorting, you can always check the ingredients to see if the dish is suitable for you.
+5. 菜谱中的中国菜都是经过改造的版本，为了保证在英国能买到相应的食材，运用英国当地贫瘠的食材做了替代(并标明了在哪里可以买到)
 
 ## Menu
 
