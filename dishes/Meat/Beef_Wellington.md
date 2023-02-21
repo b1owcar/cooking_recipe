@@ -30,15 +30,15 @@
 4. 牛排小火两面各煎1分钟，表面略带焦色即可，盛出醒肉1分钟
 5. 将酥皮平铺开，将炒好的蘑菇酱平铺在上面，如下图所示
 
-<div>
-    <img src="../../imgs/dishes/BeefWellington1.jpg" style="width:300px">
-</div>
+    <div>
+        <img src="../../imgs/dishes/BeefWellington1.jpg" style="width:300px">
+    </div>
 
 6. 从一边卷起，包好，用保鲜膜包好放冷冻室1小时
 
-<div>
-    <img src="../../imgs/dishes/BeefWellington2.jpg" style="width:300px">
-</div>
+    <div>
+        <img src="../../imgs/dishes/BeefWellington2.jpg" style="width:300px">
+    </div>
 
 7. 表面刷蛋液烤箱200度烤20分钟
 
