@@ -53,7 +53,7 @@
 ## 成品展示
 
 <div>
-	<img src="../../imgs/dishes/BeefWellington5.jpg" style="width:300px">
+	<img src="../../imgs/dishes/BeefWellington5.jpg" style="width:500px">
 </div>
 	
 另一道菜是吴大厨的，在线催更！！！
