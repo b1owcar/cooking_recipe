@@ -23,14 +23,15 @@ The dishes included in the project are already appeared in our dinner table.
 - [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
 - [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
 - [Kong Pao Chicken 宫保鸡丁](dishes/Meat/Gong-Bao-Ji-Ding.md)
-- [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 - [Simplified Beef Wellington 简化版惠林顿牛排](dishes/Meat/Beef_Wellington.md)
+- [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
+- [Whiskey Steak 威士忌牛排](dishes/Meat/Whiskey_Steak.md)
 
 #### Vegetables
 - [Boiled Lettuce](dishes/Boiled_Lettuce.md)
-- [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md)
 - [Chinese Cabbage with Vinegar 醋溜白菜](dishes/Vegs/Cu_Liu_Bai_Cai.md)
+- [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md)
 - [Spinach with Ginger 姜汁菠菜](dishes/Vegs/Jiang_Zhi_Bo_Cai.md)
 
 #### Soup
@@ -41,8 +42,8 @@ The dishes included in the project are already appeared in our dinner table.
 - [Roasted Chicken Wings 奥尔良鸡翅](dishes/Roasted-Chicken-Wings.md)
 
 #### Dessert
-- [Red Bean Paste](dishes/Desserts/Red_Bean_Paste.md)
 - [Egg Tarts](https://aiden-l.github.io/pages/notready/doge.html)
+- [Red Bean Paste](dishes/Desserts/Red_Bean_Paste.md)
 - [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
 #### Drinks
