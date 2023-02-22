@@ -17,25 +17,25 @@ The dishes included in the project are already appeared in our dinner table.
 ## Menu
 
 #### Main
-- [Seafood Noodles(Souped)](dishes/Seafood_Noodles_Souped.md)
+- [Seafood Noodles(Souped) 海鲜汤面](dishes/Seafood_Noodles_Souped.md)
 
 #### Meat
-- [Braised Pork Belly](dishes/Braised-Pork-Belly.md)
-- [Curry with beef brisket](dishes/Curry_with_beef_brisket.md)
-- [Diced steak with black pepper sauce](dishes/Diced-steak-with-black-pepper-sauce.md)
+- [Braised Pork Belly 红烧肉](dishes/Braised-Pork-Belly.md)
+- [Curry with beef brisket 咖喱炖牛肉](dishes/Curry_with_beef_brisket.md)
+- [Diced steak with black pepper sauce 黑椒牛柳](dishes/Diced-steak-with-black-pepper-sauce.md)
 - [Kong Pao Chicken 宫保鸡丁](dishes/Meat/Gong-Bao-Ji-Ding.md)
 - [Simplified Beef Wellington 简化版惠林顿牛排](dishes/Meat/Beef_Wellington.md)
-- [Sizzling Fresh Squid with Beef and black pepper sauce](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
+- [Sizzling Fresh Squid with Beef and black pepper sauce 铁板鲜鱿牛柳](dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Whiskey Steak 威士忌牛排](dishes/Meat/Whiskey_Steak.md)
 
 #### Vegetables
-- [Boiled Lettuce](dishes/Boiled_Lettuce.md)
+- [Boiled Lettuce 白灼生菜](dishes/Boiled_Lettuce.md)
 - [Chinese Cabbage with Vinegar 醋溜白菜](dishes/Vegs/Cu_Liu_Bai_Cai.md)
-- [Fried Purple Cabbage](dishes/Fried_Purple_Cabbage.md)
+- [Fried Purple Cabbage 炒紫甘蓝](dishes/Fried_Purple_Cabbage.md)
 - [Spinach with Ginger 姜汁菠菜](dishes/Vegs/Jiang_Zhi_Bo_Cai.md)
 
 #### Soup
-- [Radish Beef Brisket Soup](dishes/Radish_Beef_Brisket_Soup.md)
+- [Radish Beef Brisket Soup 萝卜牛腩汤](dishes/Radish_Beef_Brisket_Soup.md)
 
 #### Sides
 - [Roasted Chicken Wings 奥尔良鸡翅](dishes/Roasted-Chicken-Wings.md)
