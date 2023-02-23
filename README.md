@@ -82,6 +82,12 @@ Warning: The footages showed above are not CGI! Please do not try it unsafely. W
 
 How to spell author
 
+<div>
+	<img src="imgs/index/whether.png"/>
+</div>	
+
+How to spell whether
+
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
 2. Please note that there must be __no space__ in the file name.
