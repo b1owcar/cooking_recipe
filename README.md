@@ -46,8 +46,9 @@ The dishes included in the project are already appeared in our dinner table.
 - [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
 #### Drinks
-- [Bubble Milk Tea](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
-- [Caramel Milk Tea 焦糖奶茶](https://aiden-l.github.io/pages/notready/doge.html)
+- [Bubble Milk Tea QQNeNe好喝到咩噗茶](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
+- [Caramel Milk Tea 焦糖奶茶](dishes/Drinks/Caramel_Milk_Tea.md)
+- [Mango Pomelo Sago 杨枝甘露](dishes/Drinks/Mango_Pomelo_Sago.md)
 
 #### Coming Soon
 - [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
