@@ -52,6 +52,8 @@ The dishes included in the project are already appeared in our dinner table.
 
 #### Coming Soon
 - [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
+- [Spicy Chicken](https://aiden-l.github.io/pages/notready/doge.html)
+- [Egg Shrimp Pancake 蛋虾饼](https://aiden-l.github.io/pages/notready/doge.html)
 - [Fried Pork in the Scoop 锅包肉](https://aiden-l.github.io/pages/notready/doge.html)
 - [Mango Pomelo Sago 杨枝甘露](https://aiden-l.github.io/pages/notready/doge.html)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
