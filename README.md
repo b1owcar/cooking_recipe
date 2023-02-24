@@ -77,8 +77,6 @@ However, there is a sequel debutted on Feburary 19, 2023 by the same chef, this 
 
 Warning: The footages showed above are not CGI! Please do not try it unsafely. We do not take any responsibilities if you set your kitchen on fire.
 
-## Daily Bloopers (This part is deleted, because it will grow longer and longer and it is pointless)
-
 ## For developers
 1. Please put your dishes into the folder "dishes" as a `.md` file.
 2. Please note that there must be __no space__ in the file name.
