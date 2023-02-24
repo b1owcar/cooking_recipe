@@ -76,8 +76,13 @@ However, there is a sequel debutted on Feburary 19, 2023 by the same chef, this 
 </div>
 
 Warning: The footages showed above are not CGI! Please do not try it unsafely. We do not take any responsibilities if you set your kitchen on fire.
+、
+## Wish List
+
+Fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__dBli81UNVIzNE9HSElUMzRNNUhBQkFFOFFMUFJHNS4u) for the dish you want to see in our menu.
 
 ## For developers
+
 1. Please put your dishes into the folder "dishes" as a `.md` file.
 2. Please note that there must be __no space__ in the file name.
 3. There is a [template file](dishes/template_dish.md) that you can use to edit your dishes.
