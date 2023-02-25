@@ -37,7 +37,8 @@ The dishes included in the project are already appeared in our dinner table.
 #### Soup
 - [Radish Beef Brisket Soup 萝卜牛腩汤](dishes/Radish_Beef_Brisket_Soup.md)
 
-#### Sides
+#### Snacks
+- [Popcorn 爆米花](dishes/Snacks/Popcorn.md)
 - [Roasted Chicken Wings 奥尔良鸡翅](dishes/Roasted-Chicken-Wings.md)
 
 #### Dessert
