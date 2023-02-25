@@ -47,11 +47,14 @@ The dishes included in the project are already appeared in our dinner table.
 - [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
 #### Drinks
-- [Bubble Milk Tea](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
-- [Caramel Milk Tea 焦糖奶茶](https://aiden-l.github.io/pages/notready/doge.html)
+- [Bubble Milk Tea QQNeNe好喝到咩噗茶](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
+- [Caramel Milk Tea 焦糖奶茶](dishes/Drinks/Caramel_Milk_Tea.md)
+- [Mango Pomelo Sago 杨枝甘露](dishes/Drinks/Mango_Pomelo_Sago.md)
 
 #### Coming Soon
 - [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
+- [Spicy Chicken](https://aiden-l.github.io/pages/notready/doge.html)
+- [Egg Shrimp Pancake 蛋虾饼](https://aiden-l.github.io/pages/notready/doge.html)
 - [Fried Pork in the Scoop 锅包肉](https://aiden-l.github.io/pages/notready/doge.html)
 - [Mango Pomelo Sago 杨枝甘露](https://aiden-l.github.io/pages/notready/doge.html)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
@@ -74,22 +77,13 @@ However, there is a sequel debutted on Feburary 19, 2023 by the same chef, this 
 </div>
 
 Warning: The footages showed above are not CGI! Please do not try it unsafely. We do not take any responsibilities if you set your kitchen on fire.
+、
+## Wish List
 
-## Daily Bloopers
-
-<div>
-	<img src="imgs/index/spelling_error.png"/>
-</div>	
-
-How to spell author
-
-<div>
-	<img src="imgs/index/whether.png"/>
-</div>	
-
-How to spell whether
+Fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__dBli81UNVIzNE9HSElUMzRNNUhBQkFFOFFMUFJHNS4u) for the dish you want to see in our menu.
 
 ## For developers
+
 1. Please put your dishes into the folder "dishes" as a `.md` file.
 2. Please note that there must be __no space__ in the file name.
 3. There is a [template file](dishes/template_dish.md) that you can use to edit your dishes.
