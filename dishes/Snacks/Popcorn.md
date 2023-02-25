@@ -5,17 +5,19 @@
 
 ## Ingredients 配料
 
--Butter 黄油
--Popcorn 玉米粒
+Butter 黄油
+
+Popcorn 玉米粒
 
 ### Sweet 甜味
 
--Sugar 白砂糖
--Honey 蜂蜜
+Sugar 白砂糖
+
+Honey 蜂蜜
 
 ### Salty 咸味
 
--Salt 盐
+Salt 盐
 
 ## Steps 步骤
 
