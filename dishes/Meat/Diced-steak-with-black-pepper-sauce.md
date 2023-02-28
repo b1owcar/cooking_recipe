@@ -51,6 +51,6 @@ Black pepper sauce 黑胡椒酱
 
 黑胡椒酱可以在东方超市内购得，文中使用的是李锦记的黑胡椒酱。
 
-4. This dish can be derivated to [Sizzling Fresh Squid with Beef and black pepper sauce](../dishes/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md).
+4. This dish can be derivated to [Sizzling Fresh Squid with Beef and black pepper sauce](./Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md).
 
 这道菜可以派生成铁板黑椒牛肉鲜鱿。
