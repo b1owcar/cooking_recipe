@@ -78,7 +78,7 @@ However, there is a sequel debutted on Feburary 19, 2023 by the same chef, this 
 </div>
 
 Warning: The footages showed above are not CGI! Please do not try it unsafely. We do not take any responsibilities if you set your kitchen on fire.
-、
+
 ## Wish List
 
 Fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__dBli81UNVIzNE9HSElUMzRNNUhBQkFFOFFMUFJHNS4u) for the dish you want to see in our menu.
