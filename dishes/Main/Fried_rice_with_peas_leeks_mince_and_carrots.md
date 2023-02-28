@@ -45,14 +45,13 @@ Sprinkle with chopped spring onions
 Serve!
 
 
-Translated with www.DeepL.com/Translator (free version)
-
 
 <!-- 添加图片时需将图片上传至imgs/dishes文件夹下，路径仿照以下修改即可，注意图片名不能有空格和特殊符号 -->
 <div>
-    <img src="../../imgs/dishes/Fried_rice_with_peas_leeks_mince_and_carrots.JPG" style="width:500px">
+    <img src="../../imgs/dishes/Fried_rice_with_peas_leeks_mince_and_carrots.jpg" style="width:500px">
 </div> 
 
 ## Notes 注意事项
-
-不好吃就是自己做的不行，肯定不是菜谱的问题
+    
+田师傅强力推荐！
+Chef Tian strongly recommends it!
