@@ -18,7 +18,7 @@ The dishes included in the project are already appeared in our dinner table.
 
 #### Main
 - [Seafood Noodles(Souped) 海鲜汤面](dishes/Main/Seafood_Noodles_Souped.md)
-- [Fried rice with peas leeks mince and carrots](dishes/Main/Fried_rice_with_peas_leeks_mince_and_carrots.md)
+- [Fried rice with peas leeks mince and carrots 小田炒饭](dishes/Main/Fried_rice_with_peas_leeks_mince_and_carrots.md)
 
 #### Meat
 - [Braised Pork Belly 红烧肉](dishes/Meat/Braised-Pork-Belly.md)

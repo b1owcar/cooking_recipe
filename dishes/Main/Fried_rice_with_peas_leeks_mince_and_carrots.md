@@ -1,4 +1,4 @@
-# Fried rice with peas leeks mince and carrots
+# Fried rice with peas leeks mince and carrots 小田炒饭
 
 ![Author](https://img.shields.io/badge/Author-Tian--zhaoxi-B4EEB4)
 ![Suitable](https://img.shields.io/badge/Suitable%20For-4%20People-brightgreen)
