@@ -27,7 +27,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Simplified Beef Wellington 简化版惠林顿牛排](dishes/Meat/Beef_Wellington.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce 铁板鲜鱿牛柳](dishes/Meat/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Whiskey Steak 威士忌牛排](dishes/Meat/Whiskey_Steak.md)
-- [鱼香肉丝](dishes/Meat/Yu_Xiang_Rou_Si.md)
+- [Yuxiang shredded pork 鱼香肉丝](dishes/Meat/Yu_Xiang_Rou_Si.md)
 
 #### Vegetables
 - [Boiled Lettuce 白灼生菜](dishes/Vegs/Boiled_Lettuce.md)
@@ -44,7 +44,7 @@ The dishes included in the project are already appeared in our dinner table.
 
 #### Dessert
 
-- [Red Bean Paste](dishes/Desserts/Red_Bean_Paste.md)
+- [Red Bean Paste 红豆沙](dishes/Desserts/Red_Bean_Paste.md)
 - [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
 #### Drinks
