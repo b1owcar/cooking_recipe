@@ -1,8 +1,8 @@
 # Fried rice with peas leeks mince and carrots
 
 ![Author](https://img.shields.io/badge/Author-Tian--zhaoxi-B4EEB4)
-<!-- 下面这行是标记用量是几个人吃的，不清楚删掉也行，更改的话2%20中的2改成其他数字即可 -->
 ![Suitable](https://img.shields.io/badge/Suitable%20For-4%20People-brightgreen)
+<!-- 上面这行是标记用量是几个人吃的，不清楚删掉也行，更改的话2%20中的2改成其他数字即可 -->
 
 <!-- 下面标题仅供参考，可随意修改，标题层次也不是固定的，随便改 -->
 ## Ingredients 配料
