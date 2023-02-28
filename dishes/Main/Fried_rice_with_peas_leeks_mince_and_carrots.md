@@ -1,4 +1,4 @@
-# 菜名
+# Fried rice with peas leeks mince and carrots
 
 ![Author](https://img.shields.io/badge/Author-Tian--zhaoxi-B4EEB4)
 <!-- 下面这行是标记用量是几个人吃的，不清楚删掉也行，更改的话2%20中的2改成其他数字即可 -->
