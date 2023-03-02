@@ -1,5 +1,7 @@
 ## Fried Mussels 炒青口
 
+![Author](https://img.shields.io/badge/Author-wwdpm__b1owcar-blueviolet)
+![Suitable](https://img.shields.io/badge/Suitable-4%20People-brightgreen)
 
 ## Ingredients 配料
 

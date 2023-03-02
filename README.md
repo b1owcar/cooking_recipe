@@ -36,6 +36,11 @@ The dishes included in the project are already appeared in our dinner table.
 - [Fried Purple Cabbage 炒紫甘蓝](dishes/Vegs/Fried_Purple_Cabbage.md)
 - [Spinach with Ginger 姜汁菠菜](dishes/Vegs/Jiang_Zhi_Bo_Cai.md)
 
+#### Seafoods
+
+- [Egg Shrimp Pancake 蛋虾饼](dishes/Seafood/egg_shrimp_pancake.md)
+- [Fried Mussels 炒青口](dishes/Seafood/Fried_mussels.md)
+
 #### Soup
 - [Radish Beef Brisket Soup 萝卜牛腩汤](dishes/Soup/Radish_Beef_Brisket_Soup.md)
 
@@ -56,9 +61,7 @@ The dishes included in the project are already appeared in our dinner table.
 #### Coming Soon
 - [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
 - [Spicy Chicken](https://aiden-l.github.io/pages/notready/doge.html)
-- [Egg Shrimp Pancake 蛋虾饼](https://aiden-l.github.io/pages/notready/doge.html)
 - [Fried Pork in the Scoop 锅包肉](https://aiden-l.github.io/pages/notready/doge.html)
-- [Mango Pomelo Sago 杨枝甘露](https://aiden-l.github.io/pages/notready/doge.html)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 - [Wax Gourd Pork Ribs Soup 冬瓜排骨汤](https://aiden-l.github.io/pages/notready/doge.html)
 
