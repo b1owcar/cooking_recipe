@@ -50,7 +50,7 @@ Butter 黄油
 ## Fire acrobatic show 火焰秀
 
 <div>
-	<img src="../../imgs/dishes/fire.gif" style="width: 300px"/>
+	<a href="https://aiden-l.github.io/pages/notready/doge.html"><img src="../../imgs/index/secret.png" style="width: 300px"/></a>
 </div>
 
 By [wwdpm_b1owcar](https://github.com/b1owcar) on Feburary 19, 2023
