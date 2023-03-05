@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-Bad%20Guys%20Group-blue)
 
-Inspired by @Anduin2017 and a great experience spending dinners with Cyber Security Bad Guys, we are happy to create this project to share our receipes.
+Inspired by @Anduin2017 and a great experience spending dinners with Cyber Security Bad Guys, we are happy to create this project to share our recipes.
 
 The dishes included in the project are already appeared in our dinner table.
 
