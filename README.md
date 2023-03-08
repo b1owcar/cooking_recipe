@@ -2,6 +2,15 @@
 
 ![Author](https://img.shields.io/badge/Author-Bad%20Guys%20Group-blue)
 
+```python
+ ____            _    ____                   ____                           _       
+| __ )  __ _  __| |  / ___|_   _ _   _ ___  |  _ \ _ __ ___  ___  ___ _ __ | |_ ___ 
+|  _ \ / _` |/ _` | | |  _| | | | | | / __| | |_) | '__/ _ \/ __|/ _ \ '_ \| __/ __|
+| |_) | (_| | (_| | | |_| | |_| | |_| \__ \ |  __/| | |  __/\__ \  __/ | | | |_\__ \
+|____/ \__,_|\__,_|  \____|\__,_|\__, |___/ |_|   |_|  \___||___/\___|_| |_|\__|___/
+                                 |___/                                                
+```
+
 Inspired by @Anduin2017 and a great experience spending dinners with Cyber Security Bad Guys, we are happy to create this project to share our recipes.
 
 The dishes included in the project are already appeared in our dinner table.
