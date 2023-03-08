@@ -72,10 +72,11 @@ The dishes included in the project are already appeared in our dinner table.
 
 #### Coming Soon
 - [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
-- [Spicy Chicken](https://aiden-l.github.io/pages/notready/doge.html)
+- [Spicy Chicken 辣子鸡？嗯？这道菜竟然还没出？这合理么？](https://aiden-l.github.io/pages/notready/doge.html)
 - [Fried Pork in the Scoop 锅包肉](https://aiden-l.github.io/pages/notready/doge.html)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 - [Wax Gourd Pork Ribs Soup 冬瓜排骨汤](https://aiden-l.github.io/pages/notready/doge.html)
+- [BBQ Pork Rib Rack 烤猪排](https://aiden-l.github.io/pages/notready/doge.html)
 
 ## Techniques
 
