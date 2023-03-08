@@ -2,7 +2,13 @@
 
 ![Author](https://img.shields.io/badge/Author-Aiden-orange)
 
-## Ingredients 配料
+## 前言
+- 留学生朋友们，还在买生鸡腿，还得花时间研究配方，自己腌制么？烤出来还不一定好吃？
+- 别瞎整啦，Iceland的鸡翅真的很香，日常屯几包在冰箱，想吃的时候拿出来一烤，完事，省时省力省心
+- (虽然不是广告 但 Iceland 看到的话记得打点钱)
+- 3包10镑，也可以搭配其他购买，三包的话可以直接一次吃到爽！
+
+## Ingredients 进货清单
 
 - Chilli Chicken Wings from Iceland (better buy 3 for 10 pounds)
 

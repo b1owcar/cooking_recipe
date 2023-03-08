@@ -55,7 +55,6 @@ The dishes included in the project are already appeared in our dinner table.
 
 #### Snacks
 - [Popcorn 爆米花](dishes/Snacks/Popcorn.md)
-- [Roasted Chicken Wings 奥尔良鸡翅](dishes/Snacks/Roasted-Chicken-Wings.md)
 
 #### Dessert
 
@@ -66,6 +65,10 @@ The dishes included in the project are already appeared in our dinner table.
 - [Bubble Milk Tea QQNeNe好喝到咩噗茶](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
 - [Caramel Milk Tea 焦糖奶茶](dishes/Drinks/Caramel_Milk_Tea.md)
 - [Mango Pomelo Sago 杨枝甘露](dishes/Drinks/Mango_Pomelo_Sago.md)
+
+#### 留学生糊弄学菜单
+- [Roasted Chicken Wings 奥尔良鸡翅](dishes/EasyCook/Roasted-Chicken-Wings.md)
+- [Double Cheese Burger 汉堡](dishes/EasyCook/Double_Cheese_Burger.md)
 
 #### Coming Soon
 - [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
