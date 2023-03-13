@@ -42,7 +42,7 @@ Spring Onion 葱
 
 (For 150g beef, can be adjusted accordiong to beef's amount)
 
-    使用下列材料按比例腌制牛肉30分钟：
+   使用下列材料按比例腌制牛肉30分钟：
 
 - 生抽 2.5茶匙
 - 老抽 0.25茶匙
