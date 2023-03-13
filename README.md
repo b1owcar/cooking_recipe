@@ -26,6 +26,7 @@ The dishes included in the project are already appeared in our dinner table.
 ## Menu
 
 #### Main
+- [Beef Chow Fun 干炒牛河](dishes/Main/Beef_Chow_Fun.md)
 - [Egg Sausage Fried Rice 蛋肠炒饭](dishes/Main/Egg_Sausauge_Fried_Rice.md)
 - [Seafood Noodles(Souped) 海鲜汤面](dishes/Main/Seafood_Noodles_Souped.md)
 - [Fried rice with peas leeks mince and carrots 小田炒饭](dishes/Main/Fried_rice_with_peas_leeks_mince_and_carrots.md)
@@ -59,7 +60,6 @@ The dishes included in the project are already appeared in our dinner table.
 - [Popcorn 爆米花](dishes/Snacks/Popcorn.md)
 
 #### Dessert
-
 - [Red Bean Paste 红豆沙](dishes/Desserts/Red_Bean_Paste.md)
 - [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
