@@ -84,7 +84,7 @@ The dishes included in the project are already appeared in our dinner table.
 How to create fire on an electromagnetic oven, please find chances to visit our [kitchen](https://use.mazemap.com/#v=1&config=lancaster&zlevel=1&center=-2.786763,54.004061&zoom=18.5&campusid=341&sharepoitype=point&sharepoi=-2.78638%2C54.00420) to witness the talent show live, the chefs will teach you hand by hand!!!
 
 <div>
-	<a href="https://aiden-l.github.io/pages/notify/notify.html"><img src="imgs/index/secret.png" style="width: 300px"/></a>
+	<a href="https://badguys.xingzhouren.club/static/index.html?#/notify?pic=fire.jpg"><img src="imgs/index/secret.png" style="width: 300px"/></a>
 </div>
 
 The fire is created by oil, which will burn after it reaches its burning point.
@@ -92,7 +92,7 @@ The fire is created by oil, which will burn after it reaches its burning point.
 However, there is a sequel debutted on Feburary 19, 2023 by the same chef, this time the fire was not at the bottom of the pot but inside the pot. 
 
 <div>
-	<a href="https://aiden-l.github.io/pages/notify/notify.html"><img src="imgs/index/secret.png" style="width: 300px"/></a>
+	<a href="https://badguys.xingzhouren.club/static/index.html?#/notify?pic=fire.gif"><img src="imgs/index/secret.png" style="width: 300px"/></a>
 </div>
 
 Warning: The footages showed above are not CGI! Please do not try it unsafely. We do not take any responsibilities if you set your kitchen on fire.
