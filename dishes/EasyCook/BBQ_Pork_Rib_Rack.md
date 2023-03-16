@@ -1,5 +1,7 @@
 # BBQ Pork Rib Rack 烤猪排
 
+![Author](https://img.shields.io/badge/Author-Aiden-orange)
+
 ## 前言
 
 - 这个...首先你要有个烤箱，好吧，其次...没有其次，真的很简单

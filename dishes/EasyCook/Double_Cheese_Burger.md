@@ -1,5 +1,7 @@
 # Double Cheese Burger 汉堡
 
+![Author](https://img.shields.io/badge/Author-Aiden-orange)
+
 ## 前言
 
 - 汉堡自由不是梦，难道要自己动手和面，做肉饼？当然不是
