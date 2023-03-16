@@ -68,16 +68,16 @@ The dishes included in the project are already appeared in our dinner table.
 - [Caramel Milk Tea 焦糖奶茶](dishes/Drinks/Caramel_Milk_Tea.md)
 - [Mango Pomelo Sago 杨枝甘露](dishes/Drinks/Mango_Pomelo_Sago.md)
 
-#### 留学生糊弄学菜单
+#### 留学生做饭糊弄学
 - [Roasted Chicken Wings 奥尔良鸡翅](dishes/EasyCook/Roasted-Chicken-Wings.md)
 - [Double Cheese Burger 汉堡](dishes/EasyCook/Double_Cheese_Burger.md)
+- [BBQ Pork Rib Rack 烤猪排](dishes/EasyCook/BBQ_Pork_Rib_Rack.md)
 
 #### Coming Soon
 - [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
 - [Fried Pork in the Scoop 锅包肉](https://aiden-l.github.io/pages/notready/doge.html)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 - [Wax Gourd Pork Ribs Soup 冬瓜排骨汤](https://aiden-l.github.io/pages/notready/doge.html)
-- [BBQ Pork Rib Rack 烤猪排](https://aiden-l.github.io/pages/notready/doge.html)
 
 ## Techniques
 
