@@ -41,6 +41,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Spicy Chicken 辣子鸡](dishes/Meat/Spicy_Chicken.md)
 - [Whiskey Steak 威士忌牛排](dishes/Meat/Whiskey_Steak.md)
 - [Yuxiang shredded pork 鱼香肉丝](dishes/Meat/Yu_Xiang_Rou_Si.md)
+- [Sautéed Lamb Slices with Scallion 葱爆羊肉](dishes/Meat/Cong_Bao_Yang_Rou.md)
 
 #### Vegetables
 - [Boiled Lettuce 白灼生菜](dishes/Vegs/Boiled_Lettuce.md)

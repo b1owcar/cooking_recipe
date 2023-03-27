@@ -55,8 +55,6 @@
 <div>
 	<img src="../../imgs/dishes/BeefWellington5.jpg" style="width:500px">
 </div>
-	
-另一道菜是吴大厨的，在线催更！！！
 
 ## Notes 注意事项
 
