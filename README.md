@@ -25,13 +25,13 @@ The dishes included in the project are already appeared in our dinner table.
 
 ## Menu
 
-#### Main
+### Main
 - [Beef Chow Fun 干炒牛河](dishes/Main/Beef_Chow_Fun.md)
 - [Egg Sausage Fried Rice 蛋肠炒饭](dishes/Main/Egg_Sausauge_Fried_Rice.md)
 - [Seafood Noodles(Souped) 海鲜汤面](dishes/Main/Seafood_Noodles_Souped.md)
 - [Fried rice with peas leeks mince and carrots 小田炒饭](dishes/Main/Fried_rice_with_peas_leeks_mince_and_carrots.md)
 
-#### Meat
+### Meat
 - [Braised Pork Belly 红烧肉](dishes/Meat/Braised-Pork-Belly.md)
 - [Curry with beef brisket 咖喱炖牛肉](dishes/Meat/Curry_with_beef_brisket.md)
 - [Diced steak with black pepper sauce 黑椒牛柳](dishes/Meat/Diced-steak-with-black-pepper-sauce.md)
@@ -43,50 +43,54 @@ The dishes included in the project are already appeared in our dinner table.
 - [Yuxiang shredded pork 鱼香肉丝](dishes/Meat/Yu_Xiang_Rou_Si.md)
 - [Sautéed Lamb Slices with Scallion 葱爆羊肉](dishes/Meat/Cong_Bao_Yang_Rou.md)
 
-#### Vegetables
+### Vegetables
 - [Boiled Lettuce 白灼生菜](dishes/Vegs/Boiled_Lettuce.md)
 - [Chinese Cabbage with Vinegar 醋溜白菜](dishes/Vegs/Cu_Liu_Bai_Cai.md)
 - [Fried Purple Cabbage 炒紫甘蓝](dishes/Vegs/Fried_Purple_Cabbage.md)
 - [Spinach with Ginger 姜汁菠菜](dishes/Vegs/Jiang_Zhi_Bo_Cai.md)
 
-#### Seafoods
+### Seafoods
 
 - [Egg Shrimp Pancake 蛋虾饼](dishes/Seafood/egg_shrimp_pancake.md)
 - [Fried Mussels 炒青口](dishes/Seafood/Fried_mussels.md)
 - [Celery with Shrimps 芹菜炒虾仁](dishes/Vegs/Qin_Cai_Chao_Xia_Ren.md)
 
-#### Soup
+### Soup
 - [Radish Beef Brisket Soup 萝卜牛腩汤](dishes/Soup/Radish_Beef_Brisket_Soup.md)
 
-#### Snacks
+### Snacks
 - [Popcorn 爆米花](dishes/Snacks/Popcorn.md)
 
-#### Dessert
+### Dessert
 - [Red Bean Paste 红豆沙](dishes/Desserts/Red_Bean_Paste.md)
 - [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
 
-#### Drinks
+### Drinks
 - [Bubble Milk Tea QQNeNe好喝到咩噗茶](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
 - [Caramel Milk Tea 焦糖奶茶](dishes/Drinks/Caramel_Milk_Tea.md)
 - [Mango Pomelo Sago 杨枝甘露](dishes/Drinks/Mango_Pomelo_Sago.md)
 
-#### 留学生做饭糊弄学
+### 留学生做饭糊弄学
 - [Roasted Chicken Wings 奥尔良鸡翅](dishes/EasyCook/Roasted-Chicken-Wings.md)
 - [Double Cheese Burger 汉堡](dishes/EasyCook/Double_Cheese_Burger.md)
 - [BBQ Pork Rib Rack 烤猪排](dishes/EasyCook/BBQ_Pork_Rib_Rack.md)
 
-#### Coming Soon
+### Coming Soon 敬请期待
 - [Egg Tarts 蛋挞](https://aiden-l.github.io/pages/notready/doge.html)
 - [Fried Pork in the Scoop 锅包肉](https://aiden-l.github.io/pages/notready/doge.html)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 - [Wax Gourd Pork Ribs Soup 冬瓜排骨汤](https://aiden-l.github.io/pages/notready/doge.html)
 - [Spicy Chicken 2.0 辣子鸡 2.0](https://aiden-l.github.io/pages/ban/ban.html)
 
-#### wwdpm_b1owcar's studying list
+### wwdpm_b1owcar's studying list
 
 - 大盘鸡
 - 烫干丝
 - 西湖醋鱼
+- 红烧牛肉面
+- 红烧牛肉
+- 辣子鸡 2.0
+- 某神秘菜系（于2023.5.5揭晓）
 
 ## Techniques
 
