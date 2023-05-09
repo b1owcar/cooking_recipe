@@ -90,7 +90,6 @@ The dishes included in the project are already appeared in our dinner table.
 - 红烧牛肉面
 - 红烧牛肉
 - 辣子鸡 2.0
-- 某神秘菜系（于2023.5.5揭晓）
 
 ## Techniques
 
