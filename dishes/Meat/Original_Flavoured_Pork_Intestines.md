@@ -23,7 +23,11 @@
 ## Steps 步骤
 
 1. Use Flour and Starch to clean up the pork intestine
+    
+    分别使用面粉和淀粉清洗猪大肠，直至猪大肠内外层均无异物
 
-    使用面粉和淀粉清洗猪大肠
+2. Slice some ginger, add water and cooking wine into the pot, cook the cleaned pork intestines for 15-20 minutes.
 
-2. Slice some ginger, 
+    在锅内加入水、料酒和姜片，水煮沸后放入猪大肠煮15分钟
+
+3. Cut the inestine to pieces, then

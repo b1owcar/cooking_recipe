@@ -3,7 +3,7 @@
 ![Author](https://img.shields.io/badge/Author-wwdpm__b1owcar-blueviolet)
 ![Suitable](https://img.shields.io/badge/Suitable%20For-2--4%20People-brightgreen)
 
-## Ingredients
+## Ingredients 配料
 
 Chicken Thigh 鸡腿肉
 
