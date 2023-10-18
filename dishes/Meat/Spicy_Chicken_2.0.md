@@ -119,4 +119,4 @@ Welcome our biggest victim
 
 有请头号小白鼠/受害者：
 
-<iframe height=1280 width=720 src="../../imgs/dishes/lafanle.mp4">
+由于Github不能直接播放视频，请移步文件夹内cooking_recipe/main/imgs/dishes/lafanle.mp4观看
