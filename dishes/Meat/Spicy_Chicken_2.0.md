@@ -119,4 +119,4 @@ Welcome our biggest victim
 
 有请头号小白鼠/受害者：
 
-<iframe src="../../imgs/dishes/lafanle.mp4">
+<iframe height=1280 width=720 src="../../imgs/dishes/lafanle.mp4">
