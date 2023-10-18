@@ -119,4 +119,6 @@ Welcome our biggest victim
 
 有请头号小白鼠/受害者：
 
-<iframe height=1280 width=720 src="../../imgs/dishes/lafanle.mp4">
+<video width="720" height="1280" controls>
+  <source src="https://github.com/b1owcar/cooking_recipe/raw/main/imgs/dishes/lafanle.mp4" type="video/mp4">
+</video>
