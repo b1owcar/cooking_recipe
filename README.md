@@ -38,7 +38,8 @@ The dishes included in the project are already appeared in our dinner table.
 - [Kong Pao Chicken 宫保鸡丁](dishes/Meat/Gong-Bao-Ji-Ding.md)
 - [Simplified Beef Wellington 简化版惠林顿牛排](dishes/Meat/Beef_Wellington.md)
 - [Sizzling Fresh Squid with Beef and black pepper sauce 铁板鲜鱿牛柳](dishes/Meat/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
-- [Spicy Chicken 辣子鸡 version 1.0](dishes/Meat/Spicy_Chicken_1.0.md)
+- [Spicy Chicken 1.0 辣子鸡 1.0](dishes/Meat/Spicy_Chicken_1.0.md)
+- [Spicy Chicken 2.0 辣子鸡 2.0](dishes/Meat/Spicy_Chicken_2.0.md)
 - [Whiskey Steak 威士忌牛排](dishes/Meat/Whiskey_Steak.md)
 - [Yuxiang shredded pork 鱼香肉丝](dishes/Meat/Yu_Xiang_Rou_Si.md)
 - [Sautéed Lamb Slices with Scallion 葱爆羊肉](dishes/Meat/Cong_Bao_Yang_Rou.md)
@@ -80,7 +81,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Fried Pork in the Scoop 锅包肉](https://aiden-l.github.io/pages/notready/doge.html)
 - [Original Flavoured Pork Intestines 九转大肠](https://aiden-l.github.io/pages/ban/ban.html)
 - [Wax Gourd Pork Ribs Soup 冬瓜排骨汤](https://aiden-l.github.io/pages/notready/doge.html)
-- [Spicy Chicken 2.0 辣子鸡 2.0](https://aiden-l.github.io/pages/ban/ban.html)
+
 
 ### wwdpm_b1owcar's studying list
 
