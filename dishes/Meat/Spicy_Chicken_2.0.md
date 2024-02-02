@@ -119,15 +119,5 @@ Welcome our biggest victim
 
 有请头号小白鼠/受害者：
 
-<iframe 
-src="https://badguys.xingzhouren.club/static/pic/09cf543baae7168f1b6e6497d2540b35.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+[![IMAGE ALT TEXT](../../imgs/dishes/lafanle.png)](https://badguys.xingzhouren.club/static/pic/09cf543baae7168f1b6e6497d2540b35.mp4)
 
-由于Github不能直接播放视频，请移步文件夹内cooking_recipe/main/imgs/dishes/lafanle.mp4观看
