@@ -120,5 +120,5 @@ Welcome our biggest victim
 有请头号小白鼠/受害者：
 
 <div>
-	<a href="https://badguys.xingzhouren.club/static/pic/09cf543baae7168f1b6e6497d2540b35.mp4"><img src="../../imgs/dishes/lafanle.png" style="width: 300px"/></a>
+	<a href="https://aiden.xingzhouren.cn/static/pic/09cf543baae7168f1b6e6497d2540b35.mp4"><img src="../../imgs/dishes/lafanle.png" style="width: 300px"/></a>
 </div>
