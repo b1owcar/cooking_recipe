@@ -50,7 +50,7 @@ Butter 黄油
 ## Fire acrobatic show 火焰秀
 
 <div>
-	<a href="https://badguys.xingzhouren.club/static/index.html?#/notify?pic=fire.gif"><img src="../../imgs/index/secret.png" style="width: 300px"/></a>
+	<a href="https://aiden.xingzhouren.cn/static/index.html?#/notify?pic=fire.gif"><img src="../../imgs/index/secret.png" style="width: 300px"/></a>
 </div>
 
 By [wwdpm_b1owcar](https://github.com/b1owcar) on Feburary 19, 2023
