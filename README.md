@@ -36,16 +36,15 @@ The dishes included in the project are already appeared in our dinner table.
 - [Curry with beef brisket 咖喱炖牛肉](dishes/Meat/Curry_with_beef_brisket.md)
 - [Diced steak with black pepper sauce 黑椒牛柳](dishes/Meat/Diced-steak-with-black-pepper-sauce.md)
 - [Kong Pao Chicken 宫保鸡丁](dishes/Meat/Gong-Bao-Ji-Ding.md)
-- [Simplified Beef Wellington 简化版惠林顿牛排](dishes/Meat/Beef_Wellington.md)
+- [Simplified Beef Wellington 简化版惠林顿牛排](dishes/Meat/Beef_Wellington.md) ![AR]
 - [Sizzling Fresh Squid with Beef and black pepper sauce 铁板鲜鱿牛柳](dishes/Meat/Sizzling-Fresh-Squid-and-Beef-with-black-pepper-sauce.md)
 - [Spicy Chicken 1.0 辣子鸡 1.0](dishes/Meat/Spicy_Chicken_1.0.md)
 - [Spicy Chicken 2.0 辣子鸡 2.0](dishes/Meat/Spicy_Chicken_2.0.md)
 - [Whiskey Steak 威士忌牛排](dishes/Meat/Whiskey_Steak.md)
 - [Yuxiang shredded pork 鱼香肉丝](dishes/Meat/Yu_Xiang_Rou_Si.md)
 - [Sautéed Lamb Slices with Scallion 葱爆羊肉](dishes/Meat/Cong_Bao_Yang_Rou.md)
-- [Poulet Aux Pommes 奶油苹果炖鸡](dishes/Meat/Poulet_Aux_Pommes.md)
-- [Goulash 匈牙利炖牛肉](dishes/Meat/Goulash.md)
-
+- [Poulet Aux Pommes 奶油苹果炖鸡](dishes/Meat/Poulet_Aux_Pommes.md) ![AR]
+- [Goulash 匈牙利炖牛肉](dishes/Meat/Goulash.md) ![AR]
 ### Vegetables
 - [Boiled Lettuce 白灼生菜](dishes/Vegs/Boiled_Lettuce.md)
 - [Chinese Cabbage with Vinegar 醋溜白菜](dishes/Vegs/Cu_Liu_Bai_Cai.md)
@@ -66,7 +65,7 @@ The dishes included in the project are already appeared in our dinner table.
 
 ### Dessert
 - [Red Bean Paste 红豆沙](dishes/Desserts/Red_Bean_Paste.md)
-- [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md)
+- [Yorkshire Milk Pudding 约克夏奶布丁](dishes/Desserts/Yorkshire-Milk-Pudding.md) ![AR]
 
 ### Drinks
 - [Bubble Milk Tea QQNeNe好喝到咩噗茶](dishes/Drinks/Bubble_Milk_Tea_wwdpm.md)
@@ -74,7 +73,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Mango Pomelo Sago 杨枝甘露](dishes/Drinks/Mango_Pomelo_Sago.md)
 
 ### 留学生做饭糊弄学
-- [Roasted Chicken Wings 奥尔良鸡翅](dishes/EasyCook/Roasted-Chicken-Wings.md)
+- [Roasted Chicken Wings 奥尔良鸡翅](dishes/EasyCook/Roasted-Chicken-Wings.md) ![AR]
 - [Double Cheese Burger 汉堡](dishes/EasyCook/Double_Cheese_Burger.md)
 - [BBQ Pork Rib Rack 烤猪排](dishes/EasyCook/BBQ_Pork_Rib_Rack.md)
 
@@ -120,3 +119,6 @@ Fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0y
 1. Please put your dishes into the folder "dishes" as a `.md` file.
 2. Please note that there must be __no space__ in the file name.
 3. There is a [template file](template_dish.md) that you can use to edit your dishes.
+
+<!-- 链接变量 -->
+[AR]:https://img.shields.io/badge/Aiden-Recommend-orange?style=flat&logo=RockstarGames
