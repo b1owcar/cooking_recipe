@@ -121,4 +121,4 @@ Fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0y
 3. There is a [template file](template_dish.md) that you can use to edit your dishes.
 
 <!-- 链接变量 -->
-[AR]:https://img.shields.io/badge/Aiden-Recommend-orange?style=flat&logo=RockstarGames
+[AR]: https://img.shields.io/badge/Aiden-Recommend-orange?style=flat&logo=RockstarGames&labelColor=white
