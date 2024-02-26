@@ -44,6 +44,7 @@ The dishes included in the project are already appeared in our dinner table.
 - [Yuxiang shredded pork 鱼香肉丝](dishes/Meat/Yu_Xiang_Rou_Si.md)
 - [Sautéed Lamb Slices with Scallion 葱爆羊肉](dishes/Meat/Cong_Bao_Yang_Rou.md)
 - [Poulet Aux Pommes 奶油苹果炖鸡](dishes/Meat/Poulet_Aux_Pommes.md)
+- [Goulash 匈牙利炖牛肉](dishes/Meat/Goulash.md)
 
 ### Vegetables
 - [Boiled Lettuce 白灼生菜](dishes/Vegs/Boiled_Lettuce.md)
